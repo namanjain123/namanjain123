@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Naman Jain <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
-<p> 📫 Reach Me At : <a href="https://www.linkedin.com/in/naman-jain-379b03193" alt="Naman's linkedin">
+<p> 📫 Reach Me At : &nbsp&nbsp&nbsp<a href="https://www.linkedin.com/in/naman-jain-379b03193" alt="Naman's linkedin">
    <img src="https://img.shields.io/badge/-NamanJain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iammukeshm" />
  </a></p>
  I’m a software engineer currently working with ASP.NET Core WebAPIs and Entity Framework and good knowlege in many tech
