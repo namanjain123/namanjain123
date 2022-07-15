@@ -20,11 +20,11 @@
     <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C Sharp Projects" width="50" height="50"/> 
   </a> 
  &nbsp&nbsp&nbsp
- <a href="https://git-scm.com/" target="_blank"> 
+ <a href="https://public.tableau.com/app/profile/naman.jain8573" target="_blank"> 
     <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo-700x394.png" alt="Tabelau Profile" width="100" height="60"/> 
   </a> 
  &nbsp&nbsp&nbsp
- <a href="https://git-scm.com/" target="_blank"> 
+ <a href="https://github.com/namanjain123?tab=repositories" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
   </a> 
   &nbsp&nbsp
