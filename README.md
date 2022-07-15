@@ -25,10 +25,17 @@
   </a> 
  &nbsp&nbsp&nbsp
  <a href="https://github.com/namanjain123?tab=repositories" target="_blank"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/1643/1643996.png" alt="Data Analysis Projects" width="70" height="70"/> 
+  </a> 
+   &nbsp&nbsp
+   <a href="https://github.com/namanjain123?tab=repositories" target="_blank"> 
+    <img src="https://www.iconsdb.com/icons/preview/green/android-6-xxl.png" alt="git" width="70" height="70"/> 
+  </a> 
+  &nbsp&nbsp
+ <a href="https://github.com/namanjain123?tab=repositories" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
   </a> 
   &nbsp&nbsp
-  
   
   </p>
  <!--Addition of Stats on github -->
