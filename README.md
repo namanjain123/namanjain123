@@ -66,13 +66,23 @@
  
  <p id="Android">
    <h4>Andorid</h4>
-                <ui></ui>
+   <ui>
+                <li><a href="https://github.com/namanjain123/Black-Hole-Calculator-APK" target="_blank">BlackHole Calculator</a></li>
+                <li><a href="https://github.com/namanjain123/Hackathon-project" target="_blank">Hackaton Project</a></li>
+                <li><a href="https://github.com/namanjain123/attendance-system" target="_blank">Attendance System</a></li>
+          </ui>
  </p>
  
  <p id="CSharp">
    <h4>C#</h4>
+               <ui>
+               <li><a href="https://github.com/namanjain123/C-Sharp-Basics">Use Of C# Basics From Data Types to Interfaces and Linq</li>
+               </ui>
  </p>
- <p id=".Net"><h4>.Net</h4></p>
+ <p id=".Net"><h4>.Net</h4>
+             
+             
+             </p>
  
 
  <br>
