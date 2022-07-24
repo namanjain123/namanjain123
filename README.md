@@ -2,8 +2,17 @@
 </h1>
 <p> 📫 Reach Me At : &nbsp&nbsp&nbsp
    <a href="https://www.linkedin.com/in/naman-jain-379b03193" alt="Naman's linkedin">
-      <img src="https://img.shields.io/badge/-NamanJain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iammukeshm" />
+      <img src="https://img.shields.io/badge/-NamanJain-blue?style=flat-square&logo=Linkedin&logoColor=white" />
  </a>
+ <a href="https://www.codechef.com/users/al0ma" alt="CodeChef Id">
+   <img src="https://img.shields.io/badge/-NamanJain-brown?style=flat-square&logo=CodeChef" />
+   </a>
+   <a href="https://codeforces.com/profile/w1nar" alt="CodeForce">
+      <img src="https://img.shields.io/badge/-NamanJain-brown?style=flat-square&logo=CodeForces&logoColor=white" />
+   </a>
+   <a href="https://www.hackerrank.com/naman_jain9460?hr_r=1" alt="HackerRank">
+      <img src="https://img.shields.io/badge/-NamanJain-black?style=flat-square&logo=HackerRank" />
+   </a>
 </p>
 <p> I’m a software engineer currently working with ASP.NET Core WebAPIs and Entity Framework and good knowlege in many tech</p>
  
