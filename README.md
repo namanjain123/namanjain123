@@ -90,15 +90,23 @@
  </p>
  <p id=".Net"><h4>.Net</h4>
              <li>
-               <b>MVC Projects</b>
+               <b><a href="https://github.com/namanjain123/Mvc-Application">MVC Projects</a></b>
                   <ul>
                      <li>
-                     <a>
-                        Tv Show WebSite
+                     <a href="https://github.com/namanjain123/Mvc-Application/tree/main/WebApplication2">
+                        Tv Show WebSite with customer addition and tv show addition
                      </a>
                      </li>
+                     <li><a href="https://github.com/namanjain123/Mvc-Application/tree/main/WebApplication1">Moview Rent Website</a></li>
                   </ul> 
              </li>
+             <li>
+               <b><a href="https://github.com/namanjain123/Entity-Framework">Entity Framework</a></b>
+               <ul>
+               <li><a href="https://github.com/namanjain123/Entity-Framework/tree/main/NamanApi">Naman Api For Crud Operations</a></li>
+               <li><a href="https://github.com/namanjain123/Entity-Framework/tree/main/DemoWebApp">Customer and Its details applictaion using entity framework</a></li>
+               <li><a href="https://github.com/namanjain123/Entity-Framework/tree/main/Startingsetup">Integration of api,customer form and other using entity framework</a></li>
+               </ul>
  </p>
  
 
