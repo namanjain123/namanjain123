@@ -14,14 +14,16 @@
       <img src="https://img.shields.io/badge/-NamanJain-black?style=flat-square&logo=HackerRank" />
    </a>
 </p>
+
+<!--My Own Breief -->
 <p> I’m a software engineer currently working with ASP.NET Core WebAPIs and Entity Framework and good knowlege in many tech</p>
  
 <br><br>
  
+ <!--Tech Navigation window -->
  <p>
    <h4>Have Experinece in projects and knowledge in these:</h4>
  </p>
- 
  <p>
    <a href="#Python"> 
       <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python-Projects" /> 
@@ -31,45 +33,67 @@
       <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="DotNet Projects" /> 
    </a> 
    &nbsp&nbsp&nbsp
+   
    <a href="#CSharp" > 
       <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C Sharp Projects" width="50" height="50"/> 
    </a> 
    &nbsp&nbsp&nbsp
+   
    <a href="https://public.tableau.com/app/profile/naman.jain8573" target="_blank"> 
       <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo-700x394.png" alt="Tabelau Profile" width="100" height="60"/> 
    </a> 
    &nbsp&nbsp&nbsp
+   
    <a href="#DataAnalysis"> 
       <img src="https://cdn-icons-png.flaticon.com/512/1643/1643996.png" alt="Data Analysis Projects" width="70" height="70"/> 
    </a> 
    &nbsp&nbsp
+   
    <a href="#Android"> 
          <img src="https://www.iconsdb.com/icons/preview/green/android-6-xxl.png" alt="git" width="70" height="70"/> 
    </a> 
    &nbsp&nbsp
+   
    <a href="https://github.com/namanjain123?tab=repositories" target="_blank"> 
          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="My All Repository In Git" width="50" height="50"/> 
    </a>
+   <a href="#Dockers" target="_blank"> 
+         <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013-768x432.png" alt="My Docker Project" width="120" height="80"/> 
+   </a>
 </p>
   
+  
+ <!--My projects -->
  <h2>My Projects:</h2>
+ 
+ <!--Python -->
  <p id="Python">
   <h4>Python </h4>
-      <ui>
-         <li>Machine Learning Basics</li>
-         <li>Djanago Project</li>
-         <li>Machine Learning Algorithms</li>
-         <li>Insuarance Claim Project Using Machine Learning</li>
-         <li>Live Crypto and Stocks Data</li>
-      </ui>
+      <ul>
+         <li> Machine Learning
+            <ul>
+               <li><a href="https://github.com/namanjain123/Machine_learning">Machine Learning Basics</a></li>
+               <li><a href="https://github.com/namanjain123/Insaurance-Claim-Project">Insuarance Claim Project Using Machine Learning</a></li>
+            </ul>
+         </li>
+         <li>Web Scrapping and Others
+            <ul>
+               <li><a href="https://github.com/namanjain123/Live-Crypto-Data">Live Crypto Data</a></li>
+               <li><a href="https://github.com/namanjain123/Live-Stock-Data">Live Stock Data</a></li>
+            </ul>
+         </li>
+         <li>Web
+            <ul><li><a href="https://github.com/namanjain123/Django-Project-">Djanago Project</a></li></ul>
+         </li>
+       </ul>
  </p>
  
  <p id="DataAnalysis">
    <h4>Data Analysis</h4>
    <ui>
-      <li>Data Analysis of Dibatise Patient</li>
-      <li>Data Analysis of Retail Chain Warehouse</li>
-      <li>Tabelau DashBoard</li>
+      <li><a href="https://github.com/namanjain123/Data-Analysis-of-Diabetes-Patients">Data Analysis of Dibatise Patient</a></li>
+      <li><a href="https://github.com/namanjain123/Spark-Foundation-Intership-Project">Data Analysis of Retail Chain Warehouse</a></li>
+      <li><a href="https://public.tableau.com/app/profile/naman.jain8573">Tabelau DashBoard</li>
    </ui>
   </p>
  
@@ -107,6 +131,12 @@
                <li><a href="https://github.com/namanjain123/Entity-Framework/tree/main/DemoWebApp">Customer and Its details applictaion using entity framework</a></li>
                <li><a href="https://github.com/namanjain123/Entity-Framework/tree/main/Startingsetup">Integration of api,customer form and other using entity framework</a></li>
                </ul>
+ </p>
+ <p id="Dockers">
+ <h4>Dockers</h4>  
+         <ul>
+             <li><a href="https://github.com/namanjain123/IIEC_RISE_DOCKER_PROJECT">Astrophysiscs Simplified Implementaion on Dockers<a></li>
+          </ul>
  </p>
  
 
