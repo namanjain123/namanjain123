@@ -1,17 +1,18 @@
 <h1 align="center">Hi there, I'm Naman Jain <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
-<p> 📫 Reach Me At : &nbsp&nbsp&nbsp
-   <a href="https://www.linkedin.com/in/naman-jain-379b03193" alt="Naman's linkedin">
-      <img src="https://img.shields.io/badge/-NamanJain-blue?style=flat-square&logo=Linkedin&logoColor=white" />
- </a>
- <a href="https://www.codechef.com/users/al0ma" alt="CodeChef Id">
-   <img src="https://img.shields.io/badge/-NamanJain-brown?style=flat-square&logo=CodeChef" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+   <a href=https://www.linkedin.com/in/naman-jain-379b03193" alt="Naman's linkedin">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Naman Jain" height="30" width="40" />
    </a>
+ <a href="https://www.codechef.com/users/al0ma" alt="CodeChef Id">
+ <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Naman Jain" height="40" width="50" />
+ </a>
    <a href="https://codeforces.com/profile/w1nar" alt="CodeForce">
-      <img src="https://img.shields.io/badge/-NamanJain-brown?style=flat-square&logo=CodeForces&logoColor=white" />
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Naman Jain" height="40" width="50" />
    </a>
    <a href="https://www.hackerrank.com/naman_jain9460?hr_r=1" alt="HackerRank">
-      <img src="https://img.shields.io/badge/-NamanJain-black?style=flat-square&logo=HackerRank" />
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Naman Jain " height="40" width="50" />
    </a>
 </p>
 
