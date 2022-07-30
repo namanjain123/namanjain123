@@ -91,6 +91,7 @@
  </p>
  </p>
  <p id="DataAnalysis">
+ <p id="DataAnalysis">
    <h4>Data Analysis</h4>
    <ui>
       <li><a href="https://github.com/namanjain123/Data-Analysis-of-Diabetes-Patients">Data Analysis of Dibatise Patient</a></li>
@@ -107,14 +108,19 @@
                 <li><a href="https://github.com/namanjain123/attendance-system" target="_blank">Attendance System</a></li>
           </ui>
  </p>
- 
+ </p>
+                                                                        
+ <p id="CSharp">
  <p id="CSharp">
    <h4>C#</h4>
                <ui>
                <li><a href="https://github.com/namanjain123/C-Sharp-Basics">Use Of C# Basics From Data Types to Interfaces and Linq</li>
                </ui>
  </p>
- <p id=".Net"><h4>.Net</h4>
+</p>                                                                        
+ <p id=".Net">                                                                        
+ <p id=".Net">
+<h4>.Net</h4>
              <li>
                <b><a href="https://github.com/namanjain123/Mvc-Application">MVC Projects</a></b>
                   <ul>
@@ -134,13 +140,16 @@
                <li><a href="https://github.com/namanjain123/Entity-Framework/tree/main/Startingsetup">Integration of api,customer form and other using entity framework</a></li>
                </ul>
  </p>
+ </p>                                                                        
+                                                                        
+<p id="Dockers">                                                                        
  <p id="Dockers">
  <h4>Dockers</h4>  
          <ul>
              <li><a href="https://github.com/namanjain123/IIEC_RISE_DOCKER_PROJECT">Astrophysiscs Simplified Implementaion on Dockers<a></li>
           </ul>
  </p>
- 
+ </p>
 
  <br>
  <h3>Github Stats</h3>
