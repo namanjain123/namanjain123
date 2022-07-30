@@ -69,6 +69,7 @@
  
  <!--Python -->
  <p id="Python">
+ <p id="Python">
   <h4>Python </h4>
       <ul>
          <li> Machine Learning
@@ -88,7 +89,7 @@
          </li>
        </ul>
  </p>
- 
+ </p>
  <p id="DataAnalysis">
    <h4>Data Analysis</h4>
    <ui>
