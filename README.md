@@ -17,7 +17,7 @@
 </p>
 
 <!--My Own Breief -->
-<p> I’m a software engineer currently working with ASP.NET Core WebAPIs and Entity Framework and good knowlege in many tech</p>
+<p> <h3>I’m a software engineer currently working with ASP.NET Core WebAPIs and Entity Framework and good knowlege in many tech</h3></p>
  
 <br><br>
  
@@ -154,12 +154,13 @@
  <br>
  <h3>Github Stats</h3>
  <!--Addition of Stats on github -->
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanjain123" alt="namanjain123" /></a> </p>
  <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/?username=namanjain123&count_private=true&showicons=true&theme=jolly" width="350" height="300" align="centre">
+  <img src="https://github-readme-stats.vercel.app/api/?username=namanjain123&count_private=true&showicons=true&theme=fun" width="350" height="300" align="centre">
 </a>
 <!--Second Stats-->
  <a href="#">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namanjain123&showicons=true&theme=jolly" width="350" height="300" align="centre">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namanjain123&showicons=true&theme=fun" width="350" height="300" align="centre">
 </a>
 
  <!--
