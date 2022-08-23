@@ -17,7 +17,7 @@
 </p>
 
 <!--My Own Breief -->
-<p> <h3>I’m a software engineer currently working with ASP.NET Core WebAPIs and Entity Framework and good knowlege in many tech</h3></p>
+<p> <h3>I’m a software engineer currently working as a full stack .net Developer with use of C#,.Net,React and Azure and good knowlege in many Technologies </h3></p>
  
 <br><br>
  
@@ -49,7 +49,10 @@
       <img src="https://cdn-icons-png.flaticon.com/512/1643/1643996.png" alt="Data Analysis Projects" width="70" height="70"/> 
    </a> 
    &nbsp&nbsp
-   
+   <a > 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="ReactJs" width="70" height="60"/> 
+   </a> 
+   &nbsp&nbsp
    <a href="#Android"> 
          <img src="https://www.iconsdb.com/icons/preview/green/android-6-xxl.png" alt="git" width="70" height="70"/> 
    </a> 
