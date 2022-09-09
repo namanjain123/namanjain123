@@ -87,9 +87,6 @@
                <li><a href="https://github.com/namanjain123/Live-Stock-Data">Live Stock Data</a></li>
             </ul>
          </li>
-         <li>Web
-            <ul><li><a href="https://github.com/namanjain123/Django-Project-">Djanago Project</a></li></ul>
-         </li>
        </ul>
  </p>
  </p>
@@ -143,10 +140,12 @@
              <li>
                <b><a href="https://github.com/namanjain123/Entity-Framework">Entity Framework</a></b>
                <ul>
+               <li><a href="https://github.com/namanjain123/Entity-Framework/tree/main/TestWebApi">Web Api With Unit Testing Using XUnit and Mstest with Mock</a></li>
                <li><a href="https://github.com/namanjain123/Entity-Framework/tree/main/NamanApi">Naman Api For Crud Operations</a></li>
-               <li><a href="https://github.com/namanjain123/Entity-Framework/tree/main/DemoWebApp">Customer and Its details applictaion using entity framework</a></li>
-               <li><a href="https://github.com/namanjain123/Entity-Framework/tree/main/Startingsetup">Integration of api,customer form and other using entity framework</a></li>
-               </ul>
+               <li><a href="https://github.com/namanjain123/Entity-Framework/tree/main/Startingsetup">
+               Integration of api,customer form and web application using entity framework</a></li>
+               <li><a href="https://github.com/namanjain123/Entity-Framework/tree/main/DemoWebApp">Customer and Its details applictaion using entity framework</a>                    </li>
+</ul>
  </p>
  </p>                                                                        
                                                                         
