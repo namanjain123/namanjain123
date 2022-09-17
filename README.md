@@ -64,6 +64,9 @@
    <a href="#Dockers" target="_blank"> 
          <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013-768x432.png" alt="My Docker Project" width="120" height="80"/> 
    </a>
+   <a href="#C++" target="_blank"> 
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="My C++ Code" width="120" height="80"/> 
+   </a>
 </p>
   
   
