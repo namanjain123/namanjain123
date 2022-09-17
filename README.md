@@ -29,34 +29,37 @@
    <a href="#Python"> 
       <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python-Projects" /> 
    </a> 
-   &nbsp&nbsp
    <a href="#.Net""> 
       <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="DotNet Projects" /> 
    </a> 
-   &nbsp&nbsp&nbsp
+   &nbsp
    
    <a href="#CSharp" > 
       <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C Sharp Projects" width="50" height="50"/> 
    </a> 
-   &nbsp&nbsp&nbsp
+   &nbsp
    
    <a href="https://public.tableau.com/app/profile/naman.jain8573" target="_blank"> 
       <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo-700x394.png" alt="Tabelau Profile" width="100" height="60"/> 
    </a> 
-   &nbsp&nbsp&nbsp
+   &nbsp
    
    <a href="#DataAnalysis"> 
       <img src="https://cdn-icons-png.flaticon.com/512/1643/1643996.png" alt="Data Analysis Projects" width="70" height="70"/> 
    </a> 
-   &nbsp&nbsp
+   &nbsp
    <a href="#React"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="ReactJs" width="70" height="60"/> 
    </a> 
-   &nbsp&nbsp
+<a href="#C++" target="_blank"> 
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="My C++ Code" width="60" height="60"/> 
+   </a>
+&nbsp
    <a href="#Android"> 
          <img src="https://www.iconsdb.com/icons/preview/green/android-6-xxl.png" alt="git" width="70" height="70"/> 
    </a> 
-   &nbsp&nbsp
+   &nbsp
+<br/>
    
    <a href="https://github.com/namanjain123?tab=repositories" target="_blank"> 
          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="My All Repository In Git" width="50" height="50"/> 
@@ -64,9 +67,7 @@
    <a href="#Dockers" target="_blank"> 
          <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013-768x432.png" alt="My Docker Project" width="120" height="80"/> 
    </a>
-   <a href="#C++" target="_blank"> 
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="My C++ Code" width="120" height="80"/> 
-   </a>
+   
 </p>
   
   
@@ -150,7 +151,16 @@
                <li><a href="https://github.com/namanjain123/Entity-Framework/tree/main/DemoWebApp">Customer and Its details applictaion using entity framework</a>                    </li>
 </ul>
  </p>
- </p>                                                                        
+ </p>
+ <!--Python -->
+ <p id="C++">
+ <p id="C++">
+  <h4>C++</h4>
+        <ul>
+             <li><a href="https://github.com/namanjain123/Competitive-Coding-And-Others">Competitive Coding and Other Solutions</a></li>
+          </ul>
+ </p>
+ </p>                                                                
                                                                         
 <p id="Dockers">                                                                        
  <p id="Dockers">
