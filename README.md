@@ -174,7 +174,7 @@
  <br>
  <h3>Github Stats</h3>
  <!--Addition of Stats on github -->
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanjain123" alt="namanjain123" /></a> </p>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanjain123&rank=SECRET,A,B,C,S,SS,SSS" alt="namanjain123" /></a> </p>
  <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/?username=namanjain123&count_private=true&showicons=true&theme=fun" width="350" height="300" align="centre">
 </a>
