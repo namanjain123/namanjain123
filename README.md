@@ -17,7 +17,7 @@
 </p>
 
 <!--My Own Breief -->
-<p> <h3>I’m a software engineer currently working as a full stack .net Developer with use of C#,.Net,React and Azure and good knowlege in many Technologies </h3></p>
+<p> <h3>I’m a Software Engineer currently working as a full stack .net Developer with use of C#,.Net,React and Azure and good knowlege in many Technologies </h3></p>
  
 <br><br>
  
