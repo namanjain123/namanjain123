@@ -149,6 +149,8 @@
                <li><a href="https://github.com/namanjain123/Entity-Framework/tree/main/Startingsetup">
                Integration of api,customer form and web application using entity framework</a></li>
                <li><a href="https://github.com/namanjain123/Entity-Framework/tree/main/DemoWebApp">Customer and Its details applictaion using entity framework</a>                    </li>
+               <li><a href="https://github.com/namanjain123/Entity-Framework/tree/main/AzureDevopsPractice">MicroServices Projects With Dockers</a>
+               </li>
 </ul>
  </p>
  </p>
