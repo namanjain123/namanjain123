@@ -1,24 +1,38 @@
-<h1 align="center">Hi there, I'm Naman Jain <span class="wave">👋</span>
+<!--Head Line of this -->
+<h1 align="center">
+   Hi there, I'm Naman Jain 
+   <span class="wave">👋</span>
 </h1>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">
+   Connect with me:
+</h3>
+
+<!--Connection Menu and there images -->
 <p align="left">
    <a href=https://www.linkedin.com/in/naman-jain-379b03193" alt="Naman's linkedin">
    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Naman Jain" height="38" width="38" />
    </a>
-                                                                         &nbsp
+&nbsp
  <a href="https://www.codechef.com/users/al0ma" alt="CodeChef Id">
  <img align="center" src="https://static-00.iconduck.com/assets.00/codechef-icon-380x512-r1v87w22.png" alt="Naman Jain" height="40 width="35/>
- </a> &nbsp
+ </a> 
+&nbsp
    <a href="https://codeforces.com/profile/w1nar" alt="CodeForce">
    <img align="center" src="https://codeforces.org/s/22515/images/codeforces-sponsored-by-ton.png" alt="Naman Jain" height="40" width="135" />
-   </a> &nbsp
+   </a> 
+&nbsp
    <a href="https://www.hackerrank.com/naman_jain9460?hr_r=1" alt="HackerRank">
    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="Naman Jain " height="40" width="40" />
-   </a> &nbsp
+   </a> 
+&nbsp
 </p>
 
 <!--My Own Breief -->
-<p> <h3>I’m a Software Engineer currently working as a full stack .net Developer with use of C#,.Net,React and Azure and good knowlege in many Technologies </h3></p>
+<p> 
+   <h3>
+      I’m a Software Engineer currently working as a full stack .net Developer with use of C#,.Net,React and Azure and good knowlege in many Technologies 
+   </h3>
+                                                                        </p>
  
 <br><br>
  
@@ -29,7 +43,7 @@
  <p>
    <a href="#Python"> 
       <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python-Projects" /> 
-   </a> 
+   </a>                                                            
    <a href="#.Net""> 
       <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="DotNet Projects" width="98" height="60"/> 
    </a> 
@@ -49,13 +63,16 @@
       <img src="https://cdn-icons-png.flaticon.com/512/1643/1643996.png" alt="Data Analysis Projects" width="70" height="70"/> 
    </a> 
    &nbsp
+                                                                        
    <a href="#React"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="ReactJs" width="70" height="60"/> 
    </a> &nbsp
+                                                                        
 <a href="#C++" target="_blank"> 
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="My C++ Code" width="60" height="60"/> 
    </a>
 &nbsp
+                                                                        
    <a href="#Android"> 
          <img src="https://www.iconsdb.com/icons/preview/green/android-6-xxl.png" alt="git" width="60" height="60"/> 
    </a> 
@@ -63,17 +80,17 @@
 <br/>
    
    <a href="https://github.com/namanjain123?tab=repositories" target="_blank"> 
-         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="My All Repository In Git" width="50" height="50"/> 
+         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="My All Repository In Git" width="50" height="60"/> 
    </a>
                                                                         &nbsp
    <a href="#Dockers" target="_blank"> 
-         <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013-768x432.png" alt="My Docker Project" width="90" height="60"/> 
+         <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013-768x432.png" alt="My Docker Project" width="98" height="60"/> 
    </a>
                                                                         &nbsp
    <a href="#Azure">
       <img src="https://cdn-icons-png.flaticon.com/512/873/873107.png"alt="my azurre projects"width="60" height="60"/>
    </a>
-                                                                        &nbsp
+                                                                        &nbsp&nbsp
    <a href="#Mongo">
       <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png"alt="MongoDb Projects"width="60" height="60"/>
    </a>   
@@ -103,12 +120,21 @@
        </ul>
  </p>
  </p>
+                                                                        
+<!--React -->
  <p id="React">
  <p id="React">
    <h4>React</h4>
-      <li><a href="https://github.com/namanjain123/Portfolio_website/tree/main/portfoliowebsite" target="_blank">React Based Personal Portfolio WebSite</a></li>
+      <li>
+         <a href="https://github.com/namanjain123/Portfolio_website/tree/main/portfoliowebsite" target="_blank">React Based Personal Portfolio WebSite</a>
+      </li>
+      <li>
+         <a href="https://github.com/namanjain123/React_Project_Basic">React Basics</a>
+      </li>
  </p>
  </p>
+                                                                        
+<!--Data Analysis -->
  <p id="DataAnalysis">
  <p id="DataAnalysis">
    <h4>Data Analysis</h4>
@@ -118,6 +144,8 @@
       <li><a href="https://public.tableau.com/app/profile/naman.jain8573">Tabelau DashBoard</li>
    </ui>
   </p>
+                                                                        </p>
+      <!--Android -->                                                                  
  <p id="Android">
    <h4>Andorid</h4>
    <ui>
