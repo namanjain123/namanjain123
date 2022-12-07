@@ -192,9 +192,14 @@
 <b><a href="https://github.com/namanjain123/.Net-Projects">Others</a></b>
 <ul>
    <li id="Azure">
-      <a href="https://github.com/namanjain123/.Net-Projects/tree/main/testAzureTimerTriggerFunction">Azure Time Function To Deploy Data To a Azure Queue</a></li>
+      <a href="https://github.com/namanjain123/.Net-Projects/tree/main/testAzureTimerTriggerFunction">Azure Time Function To Deploy Data To a Azure Queue</a>
+      </li>
+      <li>
+      <a href="https://github.com/namanjain123/.Net-Projects/tree/main/AzureFunctionRestApi">Azure Function Rest Api With Http Triger</a>
+      </li>
    <li id="Mongo">
       <a href="https://github.com/namanjain123/.Net-Projects/tree/main/MongoDbCrud">MongoDb .Net CRUD Api</a></li>
+      
 </ul></li>
  </p>
  </p>
