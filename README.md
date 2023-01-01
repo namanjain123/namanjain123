@@ -98,6 +98,8 @@
                                                                         <a href="#NodeJs">
       <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"alt="NodeJs Projects"width="60" height="60"/>
    </a>   
+                                                                        &nbsp
+                                                                        <a href="#JavaScript"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript"  width="60" height="60" /></a>
 </p>
   
   
@@ -195,13 +197,7 @@
     <li>  
 <b><a href="https://github.com/namanjain123/.Net-Projects">Others</a></b>
 <ul>
-   <li id="Azure">
-      <a href="https://github.com/namanjain123/.Net-Projects/tree/main/testAzureTimerTriggerFunction">Azure Time Function To Deploy Data To a Azure Queue</a>
-      </li>
-      <li>
-      <a href="https://github.com/namanjain123/.Net-Projects/tree/main/AzureFunctionRestApi">Azure Function Rest Api With Http Triger</a>
-      </li>
-                                                                        <li><a href="https://github.com/namanjain123/.Net-Projects/tree/main/servicebuswebapi">Azure Service Bus Post Message Web Api</a></li>
+   
    <li id="Mongo">
       <a href="https://github.com/namanjain123/.Net-Projects/tree/main/MongoDbCrud">MongoDb .Net CRUD Api</a></li>
       
@@ -226,6 +222,16 @@
           </ul>
  </p>
  </p>
+<p id="Azure"><pid="Azure"><h4><a href="https://github.com/namanjain123/AzureProjects">Azure</a></h4>  
+                                                                        <ul>
+                                                                        <li id="Azure">
+      <a href="https://github.com/namanjain123/AzureProjects/tree/master/testAzureTimerTriggerFunction">Azure Time Function To Deploy Data To a Azure Queue</a>
+      </li>
+      <li>
+      <a href="https://github.com/namanjain123/AzureProjects/tree/master/AzureFunctionRestApi">Azure Function Rest Api With Http Triger</a>
+      </li>
+<li><a href="https://github.com/namanjain123/AzureProjects/tree/master/servicebuswebapi">Azure Service Bus Post Message Web Api</a></li></ul>
+                                                                        </p></p>
 <p id="NodeJs">                                                                        
  <p id="NodeJs">
  <h4>NodeJs</h4>  
@@ -244,6 +250,16 @@
           </ul>
  </p>
  </p>
+                                                                        
+<p id="JavaScript">
+<p id="JavaScript">
+<h4><a href="https://github.com/namanjain123/JavaScriptProject">JavaScript</a></h4>
+<ul>
+                                                                        <li><a href="https://github.com/namanjain123/JavaScriptProject/tree/master/Basics">Basics</a></li>
+                                                                        <li><a href="https://github.com/namanjain123/JavaScriptProject/tree/master/Dom%20Practice">Doms</a></li>
+                                                                        <li><a href="https://github.com/namanjain123/JavaScriptProject/tree/master/others">Others</a></li>
+                                                                        </ul>
+</p></p>
 
  <br>
  <h3>Github Stats</h3>
