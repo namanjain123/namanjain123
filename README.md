@@ -38,6 +38,9 @@ I Am always looking for new opportunities to learn and grow as a developer so fe
                                                                         
  
 <br>
+ 
+ <!--My projects -->
+ <h2>My Projects:</h2>
  <!--Tech Navigation window -->
  <p>
    <h4>See The Project On Diffrent Technologies:</h4>
@@ -105,9 +108,6 @@ I Am always looking for new opportunities to learn and grow as a developer so fe
 </p>
   
   
- <!--My projects -->
- <h2>My Projects:</h2>
- 
  <!--Python -->
  <p id="Python">
  <p id="Python">
