@@ -28,17 +28,19 @@
 </p>
 
 <!--My Own Breief -->
-<p> 
-   <h3>
-      I’m a Software Engineer currently working as a full stack .net Developer with use of C#,.Net,React and Azure and good knowlege in many Technologies 
-   </h3>
-                                                                        </p>
+   <h4>
+      Hello I am Naman a Full Stack Developer with strong technical skills in C Sharp, C++, Python, .Net, Unit Testing, JavaScript, React, SQL, MongoDB, Machine Learning, Azure, DSA, Azure and Node Js. <br><br>
+Have Good CP Skills With 3 stars on CodeChef and achieved a max rating of 1461 on Codeforces And Have Good CLoud Experience have AZ900 Certification.
+As a full stack .NET developer at Celebal Technologies, Naman has contributed to a range of projects, including the development of a CRMS ChatBot on Teams, a notification bot for a client, and a Financial ChatBot for Petronas. <br><br>
+In his spare time, he has developed many projects and other for my own learning and Self Growth Listed Below.
+I Am always looking for new opportunities to learn and grow as a developer so feel free to reach me out.
+   </h4>
+                                                                        
  
-<br><br>
- 
+<br>
  <!--Tech Navigation window -->
  <p>
-   <h4>Have Experinece in projects and knowledge in these:</h4>
+   <h4>See The Project On Diffrent Technologies:</h4>
  </p>
  <p>
    <a href="#Python"> 
@@ -273,18 +275,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=namanjain123&showicons=true&theme=fun" width="350" height="300" align="centre">
 </a>
 
- <!--
-**namanjain123/namanjain123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
 
