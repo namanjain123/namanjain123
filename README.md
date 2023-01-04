@@ -1,21 +1,36 @@
-<h1 align="center">Hi there, I'm Naman Jain <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1>
-<p> 📫 Reach Me At : &nbsp&nbsp&nbsp
-   <a href="https://www.linkedin.com/in/naman-jain-379b03193" alt="Naman's linkedin">
-      <img src="https://img.shields.io/badge/-NamanJain-blue?style=flat-square&logo=Linkedin&logoColor=white" />
- </a>
+# Hi there, I'm Naman Jain 👋
+
+## Connect with me:
+
+<!--Connection Menu and there images -->
+<p align="left">
+   <a href=https://www.linkedin.com/in/naman-jain-379b03193" alt="Naman's linkedin">
+   <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Naman Jain" height="38" width="38" />
+   </a>
+&nbsp
  <a href="https://www.codechef.com/users/al0ma" alt="CodeChef Id">
-   <img src="https://img.shields.io/badge/-NamanJain-brown?style=flat-square&logo=CodeChef" />
-   </a>
+ <img align="center" src="https://static-00.iconduck.com/assets.00/codechef-icon-380x512-r1v87w22.png" alt="Naman Jain" height="40 width="35/>
+ </a> 
+&nbsp
    <a href="https://codeforces.com/profile/w1nar" alt="CodeForce">
-      <img src="https://img.shields.io/badge/-NamanJain-brown?style=flat-square&logo=CodeForces&logoColor=white" />
-   </a>
+   <img align="center" src="https://codeforces.org/s/22515/images/codeforces-sponsored-by-ton.png" alt="Naman Jain" height="40" width="135" />
+   </a> 
+&nbsp
    <a href="https://www.hackerrank.com/naman_jain9460?hr_r=1" alt="HackerRank">
-      <img src="https://img.shields.io/badge/-NamanJain-black?style=flat-square&logo=HackerRank" />
-   </a>
+   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="Naman Jain " height="40" width="40" />
+   </a> 
+&nbsp
 </p>
-<p> I’m a software engineer currently working with ASP.NET Core WebAPIs and Entity Framework and good knowlege in many tech</p>
- 
+
+<html>
+  <p>I am a full stack developer with strong technical skills in <span style="color: orange;">C#</span>, <span style="color: purple;">C++</span>, <span style="color: green;">Python</span>, <span style="color: blue;">.Net</span>, <span style="color: red;">unit testing</span>, <span style="color: purple;">JavaScript</span>, <span style="color: orange;">React</span>, <span style="color: green;">SQL</span>, <span style="color: blue;">MongoDB</span>, <span style="color: purple;">machine learning</span>, <span style="color: red;">Azure</span>, <span style="color: orange;">DSA</span>, and <span style="color: green;">Node.js</span>.</p>
+</html>
+I have a passion for competitive programming and have achieved 3 stars on CodeChef and a maximum rating of 1461 on Codeforces. I also have experience with cloud computing and hold an AZ900 certification.
+
+As a full stack .NET developer at Celebal Technologies, I have contributed to a range of projects, including the development of a CRMS Chatbot on Teams, a Notification Bot, and a Financial ChatApp for Petronas.
+
+In my spare time, I enjoy developing personal projects and learning new technologies. I am always looking for opportunities to grow as a developer, so feel free to reach out to me.
+
 <br><br>
  
  <p>
