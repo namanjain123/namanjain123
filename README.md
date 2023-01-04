@@ -28,10 +28,12 @@
 </p>
 
 <!--My Own Breief -->
+<h2>About Me</h2>
    <h4>
       Hello I am Naman a Full Stack Developer with strong technical skills in C Sharp, C++, Python, .Net, Unit Testing, JavaScript, React, SQL, MongoDB, Machine Learning, Azure, DSA, Azure and Node Js. <br><br>
 Have Good CP Skills With 3 stars on CodeChef and achieved a max rating of 1461 on Codeforces And Have Good CLoud Experience have AZ900 Certification.
-As a full stack .NET developer at Celebal Technologies, Naman has contributed to a range of projects, including the development of a CRMS ChatBot on Teams, a notification bot for a client, and a Financial ChatBot for Petronas. <br><br>
+                                                                        <br><br>
+As a Full Stack .NET Developer at Celebal Technologies, Naman has contributed to a range of projects, including the development of a CRMS ChatBot on Teams, a notification bot for a client, and a Financial ChatBot for Petronas. <br><br>
 In his spare time, he has developed many projects and other for my own learning and Self Growth Listed Below.
 I Am always looking for new opportunities to learn and grow as a developer so feel free to reach me out.
    </h4>
