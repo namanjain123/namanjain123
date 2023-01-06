@@ -1,3 +1,5 @@
+
+
 <!--Head Line of this -->
 <h1 align="center">
    Hi there, I'm Naman Jain 
@@ -22,10 +24,14 @@
    </a> 
 &nbsp
    <a href="https://www.hackerrank.com/naman_jain9460?hr_r=1" alt="HackerRank">
-   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="Naman Jain " height="40" width="40" />
+   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="Naman Jain " height="35" width="40" />
    </a> 
 &nbsp
+<a href="mailto:email@example.com" al="Email Me"><img align="center" src="https://cdn-icons-png.flaticon.com/512/83/83968.png" alt="Naman Jain " height="40" width="40" /></a>                                                                        
+
 </p>
+
+
 
 <!--My Own Breief -->
 <h2>About Me</h2>
