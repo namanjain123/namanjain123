@@ -208,7 +208,7 @@ I Am always looking for new opportunities to learn and grow as a developer so fe
     <li>  
 <b><a href="https://github.com/namanjain123/.Net-Projects">Others</a></b>
 <ul>
-   
+   <li id="Graph"><a href="https://github.com/namanjain123/.Net-Projects/tree/main/BasicGraphQl">GraphQL Web Api</a></li>
    <li id="Mongo">
       <a href="https://github.com/namanjain123/.Net-Projects/tree/main/MongoDbCrud">MongoDb .Net CRUD Api</a></li>
       
