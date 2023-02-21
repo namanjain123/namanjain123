@@ -211,7 +211,7 @@ I Am always looking for new opportunities to learn and grow as a developer so fe
    <li id="Graph"><a href="https://github.com/namanjain123/.Net-Projects/tree/main/BasicGraphQl">GraphQL Web Api</a></li>
 
    <li id="Graph"><a href="https://github.com/namanjain123/.Net-Projects/tree/main/Chart_Maker_GraphQL_API">Charts Maker GraphQL API </a></li>
-<li><a>Async Apis</a></li>
+<li><ahref="https://github.com/namanjain123/.Net-Projects/tree/main/AsyncTypeAPI">Async Apis</a></li>
    <li id="Mongo">
       <a href="https://github.com/namanjain123/.Net-Projects/tree/main/MongoDbCrud">MongoDb .Net CRUD Api</a></li>
       
@@ -255,7 +255,7 @@ I Am always looking for new opportunities to learn and grow as a developer so fe
                     <li><a href="https://github.com/namanjain123/Node_Js_Project/tree/master/crud-api-mongo-node">Crud Api On MongoDb </a></li>
                                                                         <li><a href="https://github.com/namanjain123/Node_Js_Project/tree/master/GithubApi">GitHub Api </a></li>
                                                                         <li><a href="https://github.com/namanjain123/Node_Js_Project/tree/master/GettingTweets">Twitter Api</a></li>
-<li><a>Node Js GraphQL Api</a></li>
+<li><a href="https://github.com/namanjain123/.Net-Projects/tree/main/NodeJs_GraphQL">Node Js GraphQL Api</a></li>
                   </ul>
             </li>
                                                                         <li>Others
