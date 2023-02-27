@@ -211,7 +211,8 @@ I Am always looking for new opportunities to learn and grow as a developer so fe
    <li id="Graph"><a href="https://github.com/namanjain123/.Net-Projects/tree/main/BasicGraphQl">GraphQL Web Api</a></li>
 
    <li id="Graph"><a href="https://github.com/namanjain123/.Net-Projects/tree/main/Chart_Maker_GraphQL_API">Charts Maker GraphQL API </a></li>
-<li><ahref="https://github.com/namanjain123/.Net-Projects/tree/main/AsyncTypeAPI">Async Apis</a></li>
+<li><a href="https://github.com/namanjain123/.Net-Projects/tree/main/AsyncTypeAPI">Async Apis</a></li>
+<li><a href="https://github.com/namanjain123/.Net-Projects/tree/main/Onion">Onion Architecture Apis</a></li>
    <li id="Mongo">
       <a href="https://github.com/namanjain123/.Net-Projects/tree/main/MongoDbCrud">MongoDb .Net CRUD Api</a></li>
       
