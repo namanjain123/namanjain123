@@ -36,12 +36,13 @@
 <!--My Own Breief -->
 <h2>About Me</h2>
    <h4>
-      Hello I am Naman a Full Stack Developer with strong technical skills in C Sharp, C++, Python, .Net, Unit Testing, JavaScript, React, SQL, MongoDB, Machine Learning, Azure, DSA, Azure and Node Js. <br><br>
-Have Good CP Skills With 3 stars on CodeChef and achieved a max rating of 1461 on Codeforces And Have Good CLoud Experience have AZ900 Certification.
-                                                                        <br><br>
-As a Full Stack .NET Developer at Celebal Technologies, Naman has contributed to a range of projects, including the development of a  a Petronas Financial Bot ,CRMS ChatBot on Teams, a notification bot for a Asian Paints. <br><br>
-In his spare time, he has developed many projects and other for my own learning and Self Growth Listed Below.
-I Am always looking for new opportunities to learn and grow as a developer so feel free to reach me out.
+      Hey I am Naman, a highly skilled Full Stack Developer with expertise in an array of technologies including C Sharp, C++, Python, .Net, Unit Testing, JavaScript, React, SQL, MongoDB, Machine Learning, Azure, DSA, Azure and Node Js.
+
+Naman's coding proficiency is exceptional, with a remarkable CP Skills demonstrated by his 3 stars on CodeChef and an impressive max rating of 1461 on Codeforces. He also possesses remarkable Cloud experience and holds an AZ900 certification.
+
+Currently, Naman works as a Full Stack .NET Developer at Celebal Technologies, where he has made significant contributions to various projects, including the development of a Petronas Financial Bot, CRMS ChatBot on Teams, and a notification bot for Asian Paints.
+
+Moreover, Naman is a passionate developer who consistently works on personal projects to enhance his skills and knowledge. With an insatiable desire to learn and grow as a developer, Naman is always seeking new opportunities to expand his horizons. So why not reach out to him today?
    </h4>
                                                                         
  
@@ -276,11 +277,20 @@ I Am always looking for new opportunities to learn and grow as a developer so fe
                                                                         <li><a href="https://github.com/namanjain123/JavaScriptProject/tree/master/others">Others</a></li>
                                                                         </ul>
 </p></p>
+                                                                        
+<p id="GraphQL">
+<h4><a href="https://github.com/namanjain123/GraphQL_Api">GraphQL</a></h4>
+<ul>
+                                                                        <li><a href="https://github.com/namanjain123/JavaScriptProject/tree/master/Basics">Basic GraphQL in .Net </a></li>
+                                                                        <li><a href="https://github.com/namanjain123/GraphQL_Api/tree/master/Chart_Maker_GraphQL_API">Charts Api In GraphQL</a></li>
+                                                                        <li><a href="https://github.com/namanjain123/JavaScriptProject/tree/master/others">GraphQLApi in NodeJs</a></li>
+                                                                        </ul>
+</p></p>
 
  <br>
  <h3>Github Stats</h3>
  <!--Addition of Stats on github -->
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanjain123&rank=SECRET,A,B,C,S,SS,SSS" alt="namanjain123" /></a> </p>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanjain123&rank=SECRET,A,AA,B,C,S,SS,SSS" alt="namanjain123" /></a> </p>
  <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/?username=namanjain123&count_private=true&showicons=true&theme=fun" width="350" height="300" align="centre">
 </a>
