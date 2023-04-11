@@ -210,6 +210,7 @@ Moreover, Naman is a passionate developer who consistently works on personal pro
 <b><a href="https://github.com/namanjain123/.Net-Projects">Others</a></b>
 <ul>
    <li id="Graph"><a href="https://github.com/namanjain123/.Net-Projects/tree/main/BasicGraphQl">GraphQL Web Api</a></li>
+                                                                                                <li><a href="https://github.com/namanjain123/.Net-Projects/tree/main/Api_For_Cosmo_DB">Cosmo DB Web Api</a></li>
 
    <li id="Graph"><a href="https://github.com/namanjain123/.Net-Projects/tree/main/Chart_Maker_GraphQL_API">Charts Maker GraphQL API </a></li>
 <li><a href="https://github.com/namanjain123/.Net-Projects/tree/main/AsyncTypeAPI">Async Apis</a></li>
