@@ -217,6 +217,7 @@ Moreover, Naman is a passionate developer who consistently works on personal pro
 <li><a href="https://github.com/namanjain123/.Net-Projects/tree/main/Onion">Onion Architecture Apis</a></li>
    <li id="Mongo">
       <a href="https://github.com/namanjain123/.Net-Projects/tree/main/MongoDbCrud">MongoDb .Net CRUD Api</a></li>
+                                                                                   <li><a>Mass Transit With Rabbit MQ</a></li>
       
 </ul></li>
  </p>
