@@ -113,7 +113,7 @@ Moreover, Naman is a passionate developer who consistently works on personal pro
       <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"alt="NodeJs Projects"width="60" height="60"/>
    </a>   
                                                                         &nbsp
-                                                                        <a href="#JavaScript"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript"  width="60" height="60" /></a>
+                                                                        <a href="#JavaScript"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript"  width="60" height="60" /></a>&nbsp&nbsp<a href="#Terraform"><img src="https://www.nicepng.com/png/full/386-3869336_hashicorp-terraform-logo.png" alt="Terraform"width="60" height="60" ></a>
 </p>
   
   
@@ -287,7 +287,14 @@ Moreover, Naman is a passionate developer who consistently works on personal pro
                                                                         <li><a href="https://github.com/namanjain123/GraphQL_Api/tree/master/Chart_Maker_GraphQL_API">Charts Api In GraphQL</a></li>
                                                                         <li><a href="https://github.com/namanjain123/JavaScriptProject/tree/master/others">GraphQLApi in NodeJs</a></li>
                                                                         </ul>
-</p></p>
+</p>
+<!--Terraform -->
+ <p id="Terraform">
+ <p id="Terraform">
+               <h4>Terraform </h4>
+                  <ul><li><a href="https://github.com/namanjain123/Terraform/blob/master/sample_vnet.tf">Azure Vnet</a></li></ul>
+ </p></p>
+</p>
 
  <br>
  <h3>Github Stats</h3>
