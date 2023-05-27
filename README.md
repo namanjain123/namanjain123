@@ -291,8 +291,11 @@ Moreover, Naman is a passionate developer who consistently works on personal pro
 <!--Terraform -->
  <p id="Terraform">
  <p id="Terraform">
-               <h4>Terraform </h4>
-                  <ul><li><a href="https://github.com/namanjain123/Terraform/blob/master/sample_vnet.tf">Azure Vnet</a></li></ul>
+                  <h4><a href="https://github.com/namanjain123/Terraform/tree/master">Terraform</a></h4>
+                  <ul><li><a href="https://github.com/namanjain123/Terraform/tree/master/VNet">Azure Vnet</a></li>
+                                                                                                        <li><a href="https://github.com/namanjain123/Terraform/tree/master/Azure%20Api%20Management">Azure Api Management</a></li>
+                                                                                                        <li><a href="https://github.com/namanjain123/Terraform/tree/master/Azure%20FUnction">Azure Function App</a></li>
+                                                                                                        <li><a href="https://github.com/namanjain123/Terraform/tree/master/Azure%20webapp%20Linux">Azure App Service</a></li></ul>
  </p></p>
 </p>
 
